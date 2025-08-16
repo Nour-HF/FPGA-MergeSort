@@ -1,0 +1,22 @@
+void sort(
+    int size,
+    int iter,
+	int window,
+	const int * d0,
+	const int * d1,
+	const int * d2,
+	const int * d3,
+	const int * d4,
+	const int * d5,
+	const int * d6,
+	const int * d7,
+    const int * d8,
+	const int * d9,
+	const int * d10,
+	const int * d11,
+	const int * d12,
+	const int * d13,
+	const int * d14,
+	const int * d15,
+	int * dram_out
+);

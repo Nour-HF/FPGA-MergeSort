@@ -1,0 +1,25 @@
+platform = xilinx_zcu102_base_202410_1
+
+save-temps = 1
+
+[clock]
+defaultFreqHz=300000000
+
+[connectivity]
+sp = sort_1.d0:HP0
+sp = sort_1.d1:HP0
+sp = sort_1.d2:HP0
+sp = sort_1.d3:HP0
+sp = sort_1.d4:HP0
+sp = sort_1.d5:HP0
+sp = sort_1.d6:HP0
+sp = sort_1.d7:HP0
+sp = sort_1.d8:HP0
+sp = sort_1.d9:HP0
+sp = sort_1.d10:HP0
+sp = sort_1.d11:HP0
+sp = sort_1.d12:HP0
+sp = sort_1.d13:HP0
+sp = sort_1.d14:HP0
+sp = sort_1.d15:HP0
+sp = sort_1.dram_out:HP1
